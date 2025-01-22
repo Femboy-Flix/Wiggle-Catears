@@ -9,7 +9,7 @@ This project involves creating wiggling cat ears using a Raspberry Pi Pico or an
 
 ### Hardware
 - **1x Development Board**: Raspberry Pi Pico (used in this project, other MicroPython-compatible boards should work).
-- **1 or 2x Servo Motors**: 0-180 degrees range.
+- **2x Servo Motors**: 0-180 degrees range.
 - **1x External Button**: e.g., an old PC power switch.
 - **A Few Jumper Cables**: To connect the components.
 
